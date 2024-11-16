@@ -1,0 +1,41 @@
+{
+    "data": {
+        "userHolding": [
+            {
+                "symbol": "MAHABANK",
+                "quantity": 990,
+                "ltp": 38.05,
+                "avgPrice": 35,
+                "close": 40
+            },
+            {
+                "symbol": "ICICI",
+                "quantity": 100,
+                "ltp": 118.25,
+                "avgPrice": 110,
+                "close": 105
+            },
+            {
+                "symbol": "SBI",
+                "quantity": 150,
+                "ltp": 550.05,
+                "avgPrice": 501,
+                "close": 590
+            },
+            {
+                "symbol": "TATA STEEL",
+                "quantity": 200,
+                "ltp": 137,
+                "avgPrice": 110.65,
+                "close": 100.05
+            },
+            {
+                "symbol": "INFOSYS",
+                "quantity": 121,
+                "ltp": 1305,
+                "avgPrice": 1245.45,
+                "close": 1103.85
+            }
+        ]
+    }
+}
